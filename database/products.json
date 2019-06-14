@@ -1,0 +1,24 @@
+[
+    {   
+        "id": "001",
+        "name": "Test Prod 1",
+        "photo": "1.jpg",
+        "price": {
+            "amount": 1000,
+            "currency": "EUR"
+        },
+        "promo": true,
+        "rating": 3.5
+    },
+    {
+        "id": "002",
+        "name": "Test Prod 2",
+        "photo": "1.jpg",
+        "price": {
+            "amount": 1000,
+            "currency": "EUR"
+        },
+        "promo": true,
+        "rating": 3.5
+    }
+]
